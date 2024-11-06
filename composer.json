@@ -18,7 +18,7 @@
         "symfony/css-selector": "~2.1",
         "symfony/dom-crawler": "~2.1",
         "symfony/finder": "~2.1",
-        "symfony/process": "~2.1",
+        "symfony/process": "~5.4",
         "guzzle/http": ">=3.0.5,<3.8-dev"
     },
     "require-dev": {
